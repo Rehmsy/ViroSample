@@ -26,7 +26,7 @@ import {
  TODO: Insert your API key below
  */
 var sharedProps = {
-  apiKey:'23A75051-9C74-45F1-B0A2-AF93EB346000',
+  apiKey:'ENTER YOUR VIRO API KEY HERE',
 }
 
 // Sets the default scene you want for AR and VR
