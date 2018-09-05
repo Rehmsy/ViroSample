@@ -43,9 +43,9 @@ export default class HelloWorldSceneAR extends Component {
         <ViroBox position={[-1, .5, -1.5]} scale={[.3, .3, .3]} materials={["img2"]} animation={{name: "rotate", run: true, loop: true}}/>
         <ViroBox position={[-2, -.3, -2]} scale={[.3, .3, .3]} materials={["img3"]} animation={{name: "rotate", run: true, loop: true}}/>
         <ViroBox position={[-.5, 0, -1]} scale={[.3, .3, .3]} materials={["img4"]} animation={{name: "rotate", run: true, loop: true}}/>
-        <ViroBox position={[-1.5, -2, -3]} scale={[.3, .3, .3]} materials={["img5"]} animation={{name: "rotate", run: true, loop: true}}/>
+        <ViroBox position={[-.25, -1, -.75]} scale={[.3, .3, .3]} materials={["img5"]} animation={{name: "rotate", run: true, loop: true}}/>
         <ViroBox position={[-1.25, 1, -1]} scale={[.3, .3, .3]} materials={["img6"]} animation={{name: "rotate", run: true, loop: true}}/>
-        <ViroBox position={[2, 0, -3]} scale={[.3, .3, .3]} materials={["img7"]} animation={{name: "rotate", run: true, loop: true}}/>
+        <ViroBox position={[2, 0, -1]} scale={[.3, .3, .3]} materials={["img7"]} animation={{name: "rotate", run: true, loop: true}}/>
         <ViroBox position={[1.75, .2, -1]} scale={[.3, .3, .3]} materials={["img8"]} animation={{name: "rotate", run: true, loop: true}}/>
         <ViroBox position={[0, .4, -1.5]} scale={[.3, .3, .3]} materials={["img9"]} animation={{name: "rotate", run: true, loop: true}}/>
         <ViroBox position={[-2, -.3, 1]} scale={[.3, .3, .3]} materials={["img10"]} animation={{name: "rotate", run: true, loop: true}}/>
