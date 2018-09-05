@@ -23,3 +23,5 @@ To use:
   * Enter your local IP address or the NGrok Packager Server endpoint   address that displays in you terminal and hit GO.
       (You should see text and bundles with green bars in computer terminal). You made need to reload the app on you mobile device before successfully connecting. 
 
+  Main file: HelloWorldSceneAR.js
+
