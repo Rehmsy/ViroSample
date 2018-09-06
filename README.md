@@ -1,4 +1,4 @@
-## AR Viro Test Augmented Reality App
+## ViroReact & React-Native Test Augmented Reality App
 
 ### Description:
 Playing around with having my hardcoded square images render as an AR gallery of spinning 3D cubes when viewed on mobile Viro app testbed. I hope to make images and positioning dynamic, and add a component to upload images from a phone gallery.
