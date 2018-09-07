@@ -20,8 +20,8 @@ To use:
   * Log in.
   * Click menu bars on top left.
   * Click 'Enter Testbed.'
-  * Enter your local IP address or the NGrok Packager Server endpoint   address that displays in you terminal and hit GO.
-      (You should see text and bundles with green bars in computer terminal). You made need to reload the app on your mobile device before successfully connecting. 
+  * Enter your local IP address or the NGrok Packager Server endpoint   address that displays in your terminal and hit GO.
+      (You should see text and bundles with green bars in computer terminal). You may need to reload the app on your mobile device before successfully connecting.  
 
   Main file: HelloWorldSceneAR.js
 
