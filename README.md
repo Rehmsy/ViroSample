@@ -6,6 +6,7 @@ Playing around with having my hardcoded square images render as an AR gallery of
 ### Created with React-Native and ViroReact.
 by Sarah Rehmer https://github.com/Rehmsy
 
+![floating and spinning image cubes]()
 To use:
 1. Clone repository. 
 2. CD into directory then run npm i.
