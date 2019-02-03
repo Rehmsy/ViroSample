@@ -6,7 +6,12 @@ Playing around with having my hardcoded square images render as an AR gallery of
 ### Created with React-Native and ViroReact.
 by Sarah Rehmer https://github.com/Rehmsy
 
-To use:
+<img src="images/floating-image-cubes1.JPG" alt="image cubes floating around a neighborhood">
+
+<img src="images/floating-image-cubes2.JPG" alt="another view of image cubes floating around a neighborhood">
+
+
+### To use:
 1. Clone repository. 
 2. CD into directory then run npm i.
 3. Open project in editor. 
