@@ -6,9 +6,10 @@ Playing around with having my hardcoded square images render as an AR gallery of
 ### Created with React-Native and ViroReact.
 by Sarah Rehmer https://github.com/Rehmsy
 
-<img src="images/floating-image-cubes1.JPG" alt="image cubes floating around a neighborhood" width="250">
+Spinning Image Cubes 1              |  Spinning Image Cubes 2
+:-------------------------:|:-------------------------:
+<img src="images/floating-image-cubes1.JPG" alt="image cubes floating around a neighborhood" width="250">  |  <img src="images/floating-image-cubes2.JPG" alt="another view of image cubes floating around a neighborhood" width="250">
 
-<img src="images/floating-image-cubes2.JPG" alt="another view of image cubes floating around a neighborhood" width="250">
 
 
 ### To use:
