@@ -8,7 +8,7 @@ by Sarah Rehmer https://github.com/Rehmsy
 
 Spinning Image Cubes 1              |  Spinning Image Cubes 2
 :-------------------------:|:-------------------------:
-<img src="images/floating-image-cubes1.JPG" alt="image cubes floating around a neighborhood" width="250">  |  <img src="images/floating-image-cubes2.JPG" alt="another view of image cubes floating around a neighborhood" width="250">
+<img src="images/floating-image-cubes1.JPG" alt="image cubes floating around a neighborhood" width="300">  |  <img src="images/floating-image-cubes2.JPG" alt="another view of image cubes floating around a neighborhood" width="300">
 
 
 
